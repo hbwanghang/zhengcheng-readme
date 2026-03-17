@@ -2,7 +2,7 @@
 Algorithm engineer specializing in computer vision &amp; deep learning. Built end-to-end systems: 3D pose estimation from sparse point clouds, real-time human tracking &amp; sensing. Proficient in Python, PyTorch, C++, Qt. Passionate about solving complex engineering challenges and deploying efficient models. AI-assisted dev advocate.
 <!-- 头部横幅 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Zheng%20Cheng&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Algorithm%20Engineer%20|%20M.S.%20in%20Software%20Engineering&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=220&section=header&text=Zheng%20Cheng&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Algorithm%20Engineer%20|%20M.S.%20in%20Software%20Engineering&descAlignY=60&descAlign=50" />
 </div>
 
 <br />
@@ -126,13 +126,14 @@ AI 赋能后：需求分析 → AI 生成 → 审查优化 → 文档 (60% 时�
 ---
 
 
-## 📬 Contact
-┌─────────────────────────────────────────────────────────┐
-│ 📧 Email: 13138952456@163.com │
-│ 📱 Phone: 18665933659 │
-│ 💼 Location: 广东·大湾区 │
-│ 🎯 Status: Open to Algorithm Engineer Opportunities │
-└─────────────────────────────────────────────────────────┘
+<table align="center">
+  <tr>
+    <td align="center">📧 <strong>Email</strong><br/>13138952456@163.com</td>
+    <td align="center">📱 <strong>Phone</strong><br/>18665933659</td>
+    <td align="center">📍 <strong>Location</strong><br/>广州、深圳</td>
+    <td align="center">🎯 <strong>Status</strong><br/>Open to Opportunities</td>
+  </tr>
+</table>
 
 <div align="center">
   <br/>
